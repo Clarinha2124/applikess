@@ -11,17 +11,11 @@ export function App() {
         <Sidebar/>
         <main>
           <Post
-            author="Machado de Assis"
-            coment="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis voluptatibus velit, 
-      quae ullam minima, voluptas officiis enim qui officia ipsam labore alias iste, explicabo asperiores 
-      repudiandae dolorum necessitatibus incidunt aperiam."
+          
           />
 
           <Post
-            author="Machado de Assis"
-            coment="Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis voluptatibus velit, 
-      quae ullam minima, voluptas officiis enim qui officia ipsam labore alias iste, explicabo asperiores 
-      repudiandae dolorum necessitatibus incidunt aperiam."
+            
           />
         </main>
       </div>
