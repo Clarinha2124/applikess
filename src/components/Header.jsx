@@ -1,11 +1,11 @@
 import styles from './Header.module.css';
 
-import logo from '../assets/Logo.png';
+import logo from '../assets/logo.png';
 
 export function Header(){
     return(
         <header className={styles.header}>
-           <img src={logo}alt="Logo" />
+           <img src={logo}alt="logo" />
         </header>
     );
 } 
