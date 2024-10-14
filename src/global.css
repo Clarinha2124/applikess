@@ -5,7 +5,8 @@
     --gray-800: #202024;
     --gray-900: #f3ccbf;
     --pale-500:#ffecec;
-    --green-200:#84af7a;
+    --green-200:#508345;
+    --hot-100:#96312f;
 }
 
 *{
@@ -14,7 +15,7 @@
     box-sizing: border-box;
 }
 body{
-    background: var(--gray-900);
+    background-image: url("/src/assets/fundo.jpg");
     color: var(--gray-300);
     -webkit-font-smothing: antialiased;
 }

@@ -30,7 +30,7 @@
         display:block;
         font-size: 0.875rem;
         line-height: 1.6;
-        color: var(--rubi-700);
+        color: var(--hot-100);
     }
     
     .authorAndTime time {
@@ -74,6 +74,7 @@
     .commentBox footer button:hover{
     color: var(--pale-500);
     background-color: transparent;
+  
     
     }
     

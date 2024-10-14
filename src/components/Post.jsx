@@ -23,11 +23,13 @@ export function Post(){
                 <p></p>
 
             </header>
-            
+
             <div className={styles.content}>
                 <p>Oioi pessoal!!!</p>
                 <p></p>
-                <p>Mais uma leitura concluida!!</p>
+                <p>Mais uma leitura concluida:</p>
+                    <p>Mulherzinhas 5/5!!!</p>
+
 
                <p></p>
 

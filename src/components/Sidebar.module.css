@@ -2,7 +2,7 @@
 background: var(--pink-600);
 border-radius: 15px;
 overflow: hidden;
-border: 2px solid var(--pale-500);
+border: 2px solid var(--hot-100);
 
 }
 
@@ -33,7 +33,7 @@ object-fit: cover;
 .Sidebar footer a{
     background-color: var(--pale-500);
     color: var(--pink-600);
-    border:1px solid var(--pale-500);
+    border:1px solid var(--hot-100);
     border-radius: 8px;
     height: 60px;
     padding: 0 1rem;
@@ -51,9 +51,9 @@ object-fit: cover;
 .Sidebar footer a:hover{
 
 
-background: var(--pale-500);
+background: var(--rubi-700);
 border: 1px solid var(--pale-500);
-color: var(--rubi-700);
+color: var(--pink-600);
 
 
 
@@ -67,14 +67,14 @@ color: var(--rubi-700);
 
 .profile strong{
     margin-top: 1rem;
-    color: var(--white);
+    color: var(--pale-500);
     line-height: 1.6;
 }
 
 
 .profile span{
     font-size: 0.875;
-    color: var(--pale-500);
+    color: var(--rubi-700);
 }
 
 
