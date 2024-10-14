@@ -2,8 +2,8 @@
 background: var(--pink-600);
 border-radius: 15px;
 overflow: hidden;
-border: 1px solid var(--white);
-outline: 2px solid var(--white)
+border: 2px solid var(--pale-500);
+
 }
 
 
@@ -24,15 +24,15 @@ object-fit: cover;
 }
 
 .Sidebar footer{
-    border-top: 1px solid var(--pale-500);
+    border-top: 1px solid var(--white);
     margin-top: 1.5rem;
     padding: 1.5rem 2rem 2rem;
     ;
 }
 
 .Sidebar footer a{
-    background: transparent;
-    color: var(--pale-500);
+    background-color: var(--pale-500);
+    color: var(--pink-600);
     border:1px solid var(--pale-500);
     border-radius: 8px;
     height: 60px;
@@ -52,7 +52,7 @@ object-fit: cover;
 
 
 background: var(--pale-500);
-border: 1px solid var(--rubi-700);
+border: 1px solid var(--pale-500);
 color: var(--rubi-700);
 
 

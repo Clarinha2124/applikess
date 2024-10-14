@@ -2,9 +2,15 @@
     background: var(--pink-600);
     border-radius: 8px;
     padding: 2.5rem;
-    border: 2px solid var(--rubi-700);
+    border: 2px solid var(--pale-500);
+    
 
 }
+
+.post img{
+width: 300px;
+};
+
 
 .post > header{
     display: flex;
@@ -18,7 +24,9 @@
 }
 
 .post > header time{
-    font-size: 0.875rem;
+    font-size: 0.775rem;
+   color: var(--rubi-700);
+
 }
 
 .content {
@@ -57,7 +65,7 @@
 
 .authorInfo strong{
     display: block;
-    color: var(--rubi-700);
+    color: var(--pale-500);
     line-height: 1.6;
 }
 
@@ -124,6 +132,6 @@ max-height: none;
 }
 
 .commentList{
-    margin-top: 2rem;
+    margin-top: 4rem;
     
 }

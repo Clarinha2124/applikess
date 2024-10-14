@@ -10,20 +10,32 @@ export function Post(){
                     className={styles.avatar} 
                     src="https://github.com/Clarinha2124.png"
                     />
+                    <p></p>
                     <div className={styles.authorInfo}>
                         <strong>Clara Cavalheiro</strong>
-                        <span>Web Developer</span>
+                        <span>@clarinhaa</span>
                     </div>
+                    <p></p>
                 </div>
-                <time title="10 de setembro às 09:44h" dateTime="2024/09/10 09:44:00">Publicado há 1h</time>
+
+                <p></p>
+                <time title="10 de setembro às 09:44h" dateTime="2024/09/10 09:44:00">Publicado á 1h</time>
+                <p></p>
+
             </header>
+            
             <div className={styles.content}>
-                <p>Fala Galera!!</p>
-                <p>Amanhã teremos viagem a bienal</p>
+                <p>Oioi pessoal!!!</p>
+                <p></p>
+                <p>Mais uma leitura concluida!!</p>
+
+               <p></p>
+
+                <img src='/src/assets/mulherzinhas.jpg'></img>
                 <p>
-                    <a href="#">#bienaldolivro</a>{''}
-                    <a href="#">#eteccidadedolivro</a>{''}
-                    <a href="#">#vempraetec </a>{''}
+                    <a href="#">#Amoler</a>{''}
+                    <a href="#">#Recomendo</a>{''}
+                  
                 </p>
             </div>
 

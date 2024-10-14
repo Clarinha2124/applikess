@@ -3,8 +3,8 @@
     --pink-600: #CA6563;
     --rubi-700:#611e1d;
     --gray-800: #202024;
-    --gray-900: #FFEDE7;
-    --pale-500:#ffffff;
+    --gray-900: #f3ccbf;
+    --pale-500:#ffecec;
     --green-200:#84af7a;
 }
 
@@ -20,8 +20,8 @@ body{
 }
 
 body,input,textarea, button{
-    font-family: 'Roboto',sans-serif;
-    font-weight: 400;
-    font-size: 1rem;
-    
+    font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
