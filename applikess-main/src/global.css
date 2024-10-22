@@ -1,0 +1,28 @@
+:root{
+    --white: #ffffff;
+    --pink-600: #dd8785;
+    --rubi-700:#912d2b;
+    --gray-800: #202024;
+    --gray-900: #f3ccbf;
+    --pale-500:#ffecec;
+    --green-200:#508345;
+    --hot-100:#96312f;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("/src/assets/fundo.jpg");
+    color: var(--gray-300);
+    -webkit-font-smothing: antialiased;
+}
+
+body,input,textarea, button{
+    font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}

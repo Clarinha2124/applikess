@@ -1,0 +1,49 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 720px;
+    background: url(imagem/fundo-horizontal.png)  repeat-x;
+    float: left;
+
+}
+
+ul li{
+    float: left;
+}
+
+
+ul a{
+    display: block;
+    padding: 0 2em;
+    line-height: 2.2em;
+    text-decoration: none;
+    color: aliceblue;
+    background: url( imagem/divisor.png) repeat-y left top;
+
+}
+
+ul a:hover{
+
+    color: #085662;
+    background: #44cade;
+}
+
+
+#home #menu .home a,
+#sobre #menu .sobre a,
+#servicos #menu .servicos a,
+#noticias #menu .noticias a,
+#contatos #menu .contatos a
+
+{
+   
+    background-color: #44cade ;
+    color: #085662;
+}
+
+ul .primeiro a {
+    background: none;
+}
+
+
